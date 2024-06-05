@@ -1,0 +1,20 @@
+{
+  "name": "rollup-plugin-wordpress-dependency-extraction",
+  "version": "1.0.0",
+  "description": "Rollup plugin to eliminate global Wordpress dependencies.",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "keywords": [
+    "rollup-plugin",
+    "wordpress",
+    "dependency",
+    "extraction",
+    "rollup"
+  ]
+}
