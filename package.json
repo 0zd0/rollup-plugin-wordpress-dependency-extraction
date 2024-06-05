@@ -2,8 +2,8 @@
   "name": "rollup-plugin-wordpress-dependency-extraction",
   "version": "1.0.0",
   "description": "Rollup plugin to eliminate global Wordpress dependencies.",
-  "module": "index.ts",
-  "type": "module",
+  "module": "src/index.ts",
+  "homepage": "https://github.com/yourusername/my-package#readme",
   "devDependencies": {
     "@types/bun": "latest"
   },
