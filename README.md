@@ -2,7 +2,7 @@
 
 ## Installation
 
-Install the module
+Install the plugin
 
 ```bash
 bun install rollup-plugin-wordpress-dependency-extraction --save-dev
