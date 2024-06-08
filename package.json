@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-wordpress-dependency-extraction",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Rollup plugin to eliminate global Wordpress dependencies.",
   "type": "module",
   "main": "dist/index.js",
